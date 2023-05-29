@@ -28,4 +28,4 @@
 
 10.Запускается бесконечный цикл bot.polling(), который ожидает и обрабатывает новые сообщения от пользователей.
 
-![image](https://github.com/HESOYAMSPQK/dynamic-language-labs/assets/75386181/39791d91-31ed-4ce3-a431-af3ff209c336)
+![image](https://github.com/HESOYAMSPQK/dynamic-language-labs/assets/75386181/7627bfe2-a7c1-45d7-85ec-4743b894bfc9)
